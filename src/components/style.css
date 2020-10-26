@@ -1,0 +1,25 @@
+.formcl {
+  width: 50%;
+  height: 100%;
+  float: left;
+  background: grey;
+  padding: 10px;
+  color: white;
+  margin-left: 10px;
+  align-items: center;
+  align-content: center;
+}
+.list{
+    width: 47%;
+    height: 100%;
+    float: right;
+    background: grey;
+    padding: 10px;
+    
+    margin-right: 10px;
+}
+.bodycomponent{
+    width: 100%;
+    height: auto;
+    background: grey;
+}
