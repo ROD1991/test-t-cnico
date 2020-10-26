@@ -2,7 +2,7 @@ Prueba tecnica
 
 ******Clonar app*****
 
-abrir cmd  posicionar en Desktop , luego ejecutar el comando git clone 
+abrir cmd  posicionar en Desktop , luego ejecutar el comando git clone https://github.com/ROD1991/test-tecnico
 
 
 **********BD conecctions***********
